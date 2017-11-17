@@ -16,7 +16,7 @@
     "url": "https://github.com/EJM6234/hot-restaurant/issues"
   },
   "homepage": "https://github.com/EJM6234/hot-restaurant#readme",
-  "devDependencies": {
+  "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "path": "^0.12.7"
